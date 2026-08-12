@@ -1,0 +1,20 @@
+Ramón Alejandro Jorge Arévalo
+Software Engineer / Full Stack Developer
+
+Contacto
+- Email: ramon.jorge2003@gmail.com
+- LinkedIn: linkedin.com/in/ramon-jorge
+- GitHub: github.com/Salvlormonch1
+- Phone: +51 934 577 089
+- Location: Lima, Peru
+
+Summary
+Software Engineering student and Systems Intern focused on Web and Mobile development with clean architecture and agile practices.
+
+Education
+UPC - Software Engineering
+10th semester | Top quintile
+
+Experience
+Luz del Sur - Pre-professional Systems Intern
+Frontend, backend, QA, and CI/CD with React, Angular, ASP.NET, Informix, PostgreSQL, TFS, and GitLab.

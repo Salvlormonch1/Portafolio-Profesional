@@ -1,0 +1,27 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1080" y2="1320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="glowA" x1="320" y1="250" x2="860" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0.05"/>
+    </linearGradient>
+    <radialGradient id="radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 500) rotate(90) scale(420 380)">
+      <stop stop-color="#38BDF8" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1400" rx="72" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="1260" rx="58" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="600" cy="430" r="320" fill="url(#radial)"/>
+  <path d="M240 1120C240 920 380 770 600 770C820 770 960 920 960 1120V1180H240V1120Z" fill="url(#glowA)"/>
+  <circle cx="600" cy="470" r="180" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="10"/>
+  <circle cx="600" cy="470" r="150" fill="rgba(255,255,255,0.08)"/>
+  <text x="600" y="452" fill="#FFFFFF" font-size="82" font-family="Inter, Arial, sans-serif" font-weight="700" text-anchor="middle">RA</text>
+  <text x="600" y="520" fill="#C7D2FE" font-size="28" font-family="Inter, Arial, sans-serif" text-anchor="middle">Ramón Jorge</text>
+  <text x="600" y="1160" fill="#E2E8F0" font-size="44" font-family="Inter, Arial, sans-serif" font-weight="600" text-anchor="middle">Placeholder profesional</text>
+  <text x="600" y="1210" fill="#94A3B8" font-size="22" font-family="Inter, Arial, sans-serif" text-anchor="middle">Reemplaza este archivo con tu foto final</text>
+</svg>
