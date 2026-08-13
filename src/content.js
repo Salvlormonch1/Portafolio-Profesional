@@ -153,7 +153,7 @@ export const copy = {
           description:
             'Aplicación de gestión de facturas y generación de reportes financieros para pequeñas y medianas empresas.',
           tech: ['Vue.js', '.NET', 'DDD', 'C#'],
-          demo: 'https://wallet-front-end-kappa.vercel.app/home',
+          demo: 'https://wallet-front-end-kappa.vercel.app/',
           code: 'https://github.com/Salvlormonch1',
           accent: 'from-sky-500/20 via-blue-500/10 to-indigo-500/10',
           imageLabel: 'PLACEHOLDER IMAGEN BILLETERA',
@@ -372,7 +372,7 @@ export const copy = {
           description:
             'Invoice management and financial reporting application for small and medium-sized businesses.',
           tech: ['Vue.js', '.NET', 'DDD', 'C#'],
-          demo: 'https://wallet-front-end-kappa.vercel.app/home',
+          demo: 'https://wallet-front-end-kappa.vercel.app/',
           code: 'https://github.com/Salvlormonch1',
           accent: 'from-sky-500/20 via-blue-500/10 to-indigo-500/10',
           imageLabel: 'PLACEHOLDER IMAGE WALLET',
